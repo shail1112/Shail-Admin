@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+
+
+-Include a new permission checking the checkbox that are not fulfilled
+
+
+
+Expected Result
+
+
+-Once you click at an empty checkbox box, it will turn yellow.
+
+
+Obs.: You can only add, it is not possible to remove a standard access per module/access level</description>
+   <name>Admin - 6.2 Modify Standard Configuration - Tick Chechbox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cdb84ae-dfb2-4889-ba29-43f79ece839c</testCaseGuid>
+</TestCaseEntity>

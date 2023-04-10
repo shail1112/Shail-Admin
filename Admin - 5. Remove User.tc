@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+
+
+-For each user row there is a trash icon at the right side.
+
+
+-Click in the trash icon
+
+
+
+Expected Result
+
+
+-It opens the following message: &quot;REMOVE USER Are you sure you want to remove &quot;USER &quot; access from the application? This action cannot be undone.&quot;</description>
+   <name>Admin - 5. Remove User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8f1694a-cfdc-4675-84f0-23bfc39138de</testCaseGuid>
+</TestCaseEntity>

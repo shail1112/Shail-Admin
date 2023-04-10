@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+
+
+-For each user row there is a pencil icon at the right side.
+
+
+-Click in the pencil icon.
+
+
+
+Expected Result
+
+
+-It will open a card with the current access the user.</description>
+   <name>Admin - 4.1 Edit User - Pencil Icon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da7031c0-92d8-4411-9bc0-9b83d0797597</testCaseGuid>
+</TestCaseEntity>

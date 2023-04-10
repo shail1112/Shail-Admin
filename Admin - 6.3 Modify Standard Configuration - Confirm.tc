@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+
+
+-Click in &quot;Confirm&quot;
+
+
+
+Expected Result
+-
+
+It will close the pop-up and the information will be updated. The user will not be able to access the system anymore.</description>
+   <name>Admin - 6.3 Modify Standard Configuration - Confirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23b56513-94bf-403d-a63f-1371f28bc04e</testCaseGuid>
+</TestCaseEntity>

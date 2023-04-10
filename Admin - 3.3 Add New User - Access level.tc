@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+
+
+- Click in the &quot;access level&quot; field and choose one of the options available
+
+
+
+Expected Result
+
+
+- Once you click at the field you can see the following options: Admin, Associate Breeder, Breeder, EGM, Reader, Trial Manager</description>
+   <name>Admin - 3.3 Add New User - Access level</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ea1053f-acee-45f1-90b0-46e654aae917</testCaseGuid>
+</TestCaseEntity>

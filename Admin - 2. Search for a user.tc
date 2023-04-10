@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions	
+- Using the searching tool, include an user email and select an option in the picklist.
+
+Expected Result
+- It will shows all the access for this specifc user.</description>
+   <name>Admin - 2. Search for a user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5d0a29c-14a8-49ee-95be-c36090761d98</testCaseGuid>
+</TestCaseEntity>

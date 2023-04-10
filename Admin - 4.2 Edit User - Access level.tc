@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+
+
+-Click in the &quot;Access Level&quot; field and choose a different access level.
+
+
+
+Expected Result
+
+
+-Once you click at &quot;Access level&quot; you can see all the options.</description>
+   <name>Admin - 4.2 Edit User - Access level</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58623d12-5437-4040-815f-fcdbaf7d0108</testCaseGuid>
+</TestCaseEntity>

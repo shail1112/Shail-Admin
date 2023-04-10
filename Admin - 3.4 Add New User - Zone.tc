@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+
+
+- Click in the &quot;zone&quot; field and choose one of the options available.
+
+
+
+Expected Result
+
+
+ -Once you click at the field you can see the following options: AFR, APAC, MAZ, NAZ, SAZ.</description>
+   <name>Admin - 3.4 Add New User - Zone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10ee7dd4-5acb-4872-b1c6-0be5f8de4944</testCaseGuid>
+</TestCaseEntity>

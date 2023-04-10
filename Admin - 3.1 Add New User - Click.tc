@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+- Click in &quot;+ADD USER&quot;
+
+
+
+Expected Result
+- It opens a pop -up where you can include new users.</description>
+   <name>Admin - 3.1 Add New User - Click</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>123f7305-e2d6-4044-a787-906d1b295a54</testCaseGuid>
+</TestCaseEntity>

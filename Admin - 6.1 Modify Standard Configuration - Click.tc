@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+
+
+-In column &quot;Access level&quot;, for each row you are going to have a button with the access level name.
+
+
+-Click in the button for a specific user
+
+
+-Move between the modules configurations
+
+
+
+Expected Result
+
+
+-It opens a pop-up where you can see the standard configuration for the access level the user has.
+
+
+-In the pop-up you can see 4 tabs (Crossing, trial, line, location). In each one you will see the permissions added for the user.</description>
+   <name>Admin - 6.1 Modify Standard Configuration - Click</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5af35c5a-d611-4d0a-b382-868e458e3378</testCaseGuid>
+</TestCaseEntity>

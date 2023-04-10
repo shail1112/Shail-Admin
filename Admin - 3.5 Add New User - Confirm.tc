@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+
+
+- Click in &quot;Confirm&quot;
+
+
+
+Expected Result
+
+
+- It will close the pop-up and the information will be available in the main screen</description>
+   <name>Admin - 3.5 Add New User - Confirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a90abdd4-456d-415d-9ca9-23083dc60500</testCaseGuid>
+</TestCaseEntity>

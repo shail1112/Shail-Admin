@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+- Click in &quot;Admin&quot; on the black side bar of mobile.
+
+Expected Result
+- It opens a screen that contains all the user and its permission.</description>
+   <name>Admin - 1. Access Admin Module</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f25746e8-916d-48ea-984c-9a7f4cc0b73e</testCaseGuid>
+</TestCaseEntity>

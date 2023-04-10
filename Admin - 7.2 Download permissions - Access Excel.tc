@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+
+
+-You can download an excel with  fields (GUId,  userID, UserName, access level and zone
+
+. 
+
+Expected Result
+
+
+-Excel opens with the mentioned field and information. Excel matches the actual access levels of people.</description>
+   <name>Admin - 7.2 Download permissions - Access Excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0da8653-d279-4261-b5f4-a338885fb788</testCaseGuid>
+</TestCaseEntity>

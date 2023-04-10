@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+
+
+-Click on download permissions
+
+
+
+Expected Result
+
+
+-An excel downloads</description>
+   <name>Admin - 7.1 Download permissions - Download Excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2055f6ae-b6c6-403e-bece-835182de2812</testCaseGuid>
+</TestCaseEntity>

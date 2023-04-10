@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+- Start typing a name in &quot;User ID&quot; field
+
+
+
+Expected Result
+- It opens a list with all user registered in SSO. The field &quot; usar name&quot; will be automatically completed.</description>
+   <name>Admin - 3.2 Add New User - User ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed5faabe-346b-4908-88c5-5d38e90f5291</testCaseGuid>
+</TestCaseEntity>

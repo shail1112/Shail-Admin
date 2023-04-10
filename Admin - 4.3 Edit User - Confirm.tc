@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step Instructions
+
+
+-Click in &quot;Confirm&quot;
+
+
+
+Expected Result
+
+
+-It will close the pop-up and the information will be updated</description>
+   <name>Admin - 4.3 Edit User - Confirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d036a9cf-e815-4986-9f84-792f3e74ce61</testCaseGuid>
+</TestCaseEntity>
